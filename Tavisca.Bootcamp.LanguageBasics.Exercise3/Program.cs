@@ -174,7 +174,7 @@ namespace Tavisca.Bootcamp.LanguageBasics.Exercise1
                 }
             }
 
-            return result; // dummy return result
+            return result; // returning result
 
             throw new NotImplementedException();
         }
